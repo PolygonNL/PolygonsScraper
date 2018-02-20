@@ -60,4 +60,3 @@
  How do I use Polygons Scraper?
  
  You open the application and then type in a valid summoner name of somebody who is active.
- Example: https://gyazo.com/083e7ef173c426d2fe821028368e6500
